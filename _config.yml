@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Hanlon / Physicist"
+title                    : "Andrew Hanlon / Homepage"
 title_separator          : "-"
 name                     : &name "Andrew Hanlon"
 description              : &description "personal webpage"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrew Hanlon, Ph.D."
   avatar           : "Andrew_Hanlon.JPG"
-  bio              : "Postdoctoral Research Associate"
+  bio              : "Postdoctoral Research Associate in Computational Physics"
   location         :
   employer         : "Brookhaven National Laboratory"
   pubmed           :
