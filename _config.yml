@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Hanlon / Postdoctoral Researcher"
+title                    : "Andrew Hanlon / Physicist"
 title_separator          : "-"
 name                     : &name "Andrew Hanlon"
 description              : &description "personal webpage"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Hanlon"
+  name             : "Andrew Hanlon, Ph.D."
   avatar           : "Andrew_Hanlon.JPG"
-  bio              : "I am a postdoctoral research associate in the nuclear theory group at Brookhaven National Laboratory. I received my PhD in physics from the University of Pittsburgh in December of 2017. I spent three years in Germany in a previous postdoc position at the Helmholtz-Institut Mainz."
+  bio              : "Postdoctoral Research Associate"
   location         :
   employer         : "Brookhaven National Laboratory"
   pubmed           :
