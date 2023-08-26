@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
-
+{% if site.author.inspire or site.author.googlescholar %}
+You can find a full list of my publications from:
 {% if author.inspire %}
-  You can also find my articles on <u><a href="{{author.inspire}}">my iNSPIRE profile</a>.</u>
+    * <a href="{{author.inspire}}">iNSPIRE profile</a>
+{% endif %}
+{% if site.author.googlescholar}
+    * <a href="{{site.author.googlescholar}}">Google Scholar profile</a>
 {% endif %}
 
 {% include base_path %}
