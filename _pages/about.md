@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "I am a postdoctoral research associate in the nuclear theory group at Brookhaven National Laboratory..."
 author_profile: true
 redirect_from: 
   - /about/
