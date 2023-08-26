@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a full list of my publications from:
-    - [iNSPIRE profile]({{site.author.inspire}})
-    - [Google Scholar profile]({{site.author.googlescholar}})
+## You can find a full list of my publications from:
+* [iNSPIRE profile]({{site.author.inspire}})
+* [Google Scholar profile]({{site.author.googlescholar}})
 
 {% include base_path %}
 
