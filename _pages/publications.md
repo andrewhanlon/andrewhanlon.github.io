@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 You can find a full list of my publications from:
-    * <a href="{{author.inspire}}">iNSPIRE profile</a>
-    * <a href="{{site.author.googlescholar}}">Google Scholar profile</a>
+    - <a href="{{author.inspire}}">iNSPIRE profile</a>
+    - <a href="{{site.author.googlescholar}}">Google Scholar profile</a>
 
 {% include base_path %}
 
