@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Hanlon / Postdoc"
+title                    : "Andrew D. Hanlon / Personal webpage"
 title_separator          : "-"
 name                     : &name "Andrew Hanlon"
 description              : &description "personal webpage"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Hanlon, Ph.D."
+  name             : "Andrew D. Hanlon, Ph.D."
   avatar           : "Andrew_Hanlon.JPG"
   bio              : "Postdoctoral Research Associate in Computational Physics"
   location         :
